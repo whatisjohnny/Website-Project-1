@@ -86,6 +86,20 @@ button {
   max-width: 100px; 
   max-height: 100px;
 }
+.pages {
+  margin: auto;
+  text-align: center ;
+  word-spacing: 15px;
+  border-radius: 10px;
+  font-style: italic;
+  font-weight: 200;
+  background-color: rgba(131, 255, 106, 0.19);
+}
+.interestshr {
+  margin-left: 10px;
+  width: 300px;
+}
+
 
 
 
